@@ -1,7 +1,7 @@
 <h1 align="center" width=75%>Hola! yo soy Alejo Araya <img src="./assents/icons/programmer.png" width="60" /> </h1>
-<h3 align="center">Soy un Back-End Developer proactivo, responsable, persistente, gran capacidad de trabajo en equipo y con gran capacidad de resolución de problemas, siempre dispuesto a enseñar y aprender de los demás.</h3>
+<h2 align="center">Soy un Back-End Developer proactivo, responsable, persistente, gran capacidad de trabajo en equipo y con gran capacidad de resolución de problemas, siempre dispuesto a enseñar y aprender de los demás.</h2>
 
-<h2> > Contáctame: </h2>
+<h2> >>> Contáctame: </h2>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./assents/icons/linkedin.png" alt="Linkedin" height="45"/></a></code>
   <code><a href="https://drive.google.com/file/d/1i79WHDwY6hwSr_oIcs_y-flMFFTMtZ7H/view?usp=sharing" target="_blank"> <img src="./assents/icons/cv.png" alt="CV" height="45"/></a></code>
