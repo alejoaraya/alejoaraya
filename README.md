@@ -9,6 +9,8 @@
   
 </p>
 
+
+
 <h2> Skills </h2>
 
 <p align="left">
@@ -50,6 +52,8 @@
 
 
 </p>
+
+
 
 <h2> My proyects </h2>
 <p align="left">
