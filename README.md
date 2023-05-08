@@ -56,7 +56,5 @@
 
 <a href="https://github.com/Rxvargas92/Project_E-Music.git" ><img align="center" src="" height="20" width="30" /> E-Music </a>
 
-<!-- <a href="https://" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather-App </a>
 
-<!-- <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a> -->
-<a href="https://" ><img align="center" src="https://images.unsplash.com/photo-1584824486516-0555a07fc511?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80" width="500" /></a> -->
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
