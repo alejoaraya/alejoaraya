@@ -12,19 +12,22 @@
 <h3> > Skills </h3>
 
 <p align="left">
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./img/skills/javascript.png" alt="javascript" height="30"/></a> JavaScript</code>
-  <code><a href="https://www.flaticon.com/free-icons/typescript" target="_blank" title="typescript icons" height="30"></a>TypeScript</code>
-  <code><a href="https://www.w3.org/html/" target="_blank"> <img src="./img/skills/html5.png" alt="html5" height="30"/></a> HTML</code>
-  <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="./img/skills/css.png" alt="html5" height="30"/></a> CSS</code>
-  <code><a href="https://reactjs.org/" target="_blank"> <img src="./img/skills/react.png" alt="react" height="30"/></a> React</code>
-  <code><a href="https://redux.js.org" target="_blank"> <img src="./img/skills/redux.png" alt="redux" width="30" height="30"/></a> Redux</code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assents/icons/skills/front/js.png" alt="javascript" height="30"/></a> JavaScript</code>
+  <code><a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="./assents/icons/skills/front/typescript.png" alt="typescript" height="30"/></a> TypeScript</code>
+  <code><a href="https://www.w3.org/html/" target="_blank"> <img src="./assents/icons/skills/front/html-5.png" alt="html5" height="30"/></a> HTML</code>
+  <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="./assents/icons/skills/front/css-3.png" alt="css3" height="30"/></a> CSS</code>
+  <code><a href="https://sass-lang.com/documentation/" target="_blank"> <img src="./assents/icons/skills/front/sass.png" alt="sass" height="30"/></a> SASS</code>
+  <code><a href="https://tailwindcss.com/docs/installation" target="_blank"> <img src="./assents/icons/skills/front/tailwind.png" alt="tailwind" height="30"/></a> Tailwind</code>
+  <code><a href="https://reactjs.org/" target="_blank"> <img src="./assents/icons/skills/front/react.png" alt="react" height="30"/></a> React</code>
   
-  <code><a href="https://nodejs.org" target="_blank"> <img src="./img/skills/nodejs.png" alt="nodejs" height="30"/></a> Node.Js</code>
-  <code><a href="https://expressjs.com" target="_blank"> <img src="./img/skills/express.png" alt="express" height="30"/></a> Express.Js</code>
+  
+  <!-- <code><a href="https://nodejs.org" target="_blank"> <img src="./img/skills/nodejs.png" alt="nodejs" height="30"/></a> Node.Js</code>
+  <code><a href="https://expressjs.com" target="_blank"> <img src="./img/skills/express.png" alt="express" height="30"/></a> Express.Js</code> -->
+
   <code><a href="https://www.postgresql.org" target="_blank"> <img src="./img/skills/postgresql.png" alt="postgresql" width="30" height="30"/></a> PostgreSQL</code>
   <code><a href="https://www.mongodb.com/" target="_blank"> <img src="./img/skills/mongodb.jpg" alt="mongodb" height="30"/></a> MongoDB</code>
   
-   <code><a href="https://www.coreldraw.com/" target="_blank"> <img src="./img/skills/sequelize.png" alt="corel" height="30"/></a> Sequelize</code>
+   <!-- <code><a href="https://www.coreldraw.com/" target="_blank"> <img src="./img/skills/sequelize.png" alt="corel" height="30"/></a> Sequelize</code> -->
 </p>
 
 <h3> > Mis Proyectos </h3>
