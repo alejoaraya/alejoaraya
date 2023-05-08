@@ -1,7 +1,7 @@
 <h1 align="center" width=75%>Hi! I'm Alejo Araya/Back-End Developer <img src="./assents/icons/programmer.png" width="60" /> </h1>
 <h3 align="center">I am a proactive, responsible, persistent, with great teamwork skills and a strong problem-solving ability, always willing to teach and learn from others.</h3>
 
-<h3> > Contáctame: </h3>
+<h3> > Contact me: </h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./assents/icons/contact/linkedin.png" alt="Linkedin" height="45"/></a></code>
   <code><a href="https://drive.google.com/file/d/1i79WHDwY6hwSr_oIcs_y-flMFFTMtZ7H/view?usp=sharing" target="_blank"> <img src="./assents/icons/contact/cv.png" alt="CV" height="45"/></a></code>
