@@ -4,7 +4,7 @@
 <h3> > Contáctame: </h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./img/icons/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/file/d/1RZc2xCwI3Nm1WIuC61tNZ43-Fd1LGMNj/view?usp=sharing" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
+  <code><a href="https://drive.google.com/file/d/1i79WHDwY6hwSr_oIcs_y-flMFFTMtZ7H/view?usp=sharing" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
   <code><a href="mailto:alejoaraya2000@gmail.com" target="_blank"> <img src="./img/icons/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
   
 </p>
