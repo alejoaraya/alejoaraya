@@ -3,9 +3,9 @@
 
 <h3> > Contáctame: </h3>
 <p align="left">
-  <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./assents/icons/linkedin" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/file/d/1i79WHDwY6hwSr_oIcs_y-flMFFTMtZ7H/view?usp=sharing" target="_blank"> <img src="./assents/icons/cv.png" alt="CV" height="30"/></a></code>
-  <code><a href="mailto:alejoaraya2000@gmail.com" target="_blank"> <img src="./assents/icons/gmail.png" alt="Email" height="30"/></a></code>
+  <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./assents/icons/linkedin.png" alt="Linkedin" height="60"/></a></code>
+  <code><a href="https://drive.google.com/file/d/1i79WHDwY6hwSr_oIcs_y-flMFFTMtZ7H/view?usp=sharing" target="_blank"> <img src="./assents/icons/cv.png" alt="CV" height="60"/></a></code>
+  <code><a href="mailto:alejoaraya2000@gmail.com" target="_blank"> <img src="./assents/icons/gmail.png" alt="Email" height="60"/></a></code>
   
 </p>
 
