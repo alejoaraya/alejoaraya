@@ -56,5 +56,5 @@
 
 <a href="https://github.com/Rxvargas92/Project_E-Music.git" ><img align="center" src="" height="20" width="30" /> E-Music </a>
 
-
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
+<!-- 
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a> -->
