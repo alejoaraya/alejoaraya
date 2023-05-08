@@ -1,5 +1,5 @@
-<h1 align="center" width=75%>Hi! I'm Alejo Araya <img src="./assents/icons/programmer.png" width="60" /> </h1>
-<h3 align="center">Soy un Back-End Developer proactivo, responsable, persistente, gran capacidad de trabajo en equipo y con gran capacidad de resolución de problemas, siempre dispuesto a enseñar y aprender de los demás.</h3>
+<h1 align="center" width=75%>Hi! I'm Alejo Araya/Back-End Developer <img src="./assents/icons/programmer.png" width="60" /> </h1>
+<h3 align="center">I am a proactive, responsible, persistent, with great teamwork skills and a strong problem-solving ability, always willing to teach and learn from others.</h3>
 
 <h3> > Contáctame: </h3>
 <p align="left">
