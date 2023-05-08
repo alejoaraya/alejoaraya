@@ -54,15 +54,15 @@
 <h3> > My proyects </h3>
 <p align="left">
 
-<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   E-Music </a>
+<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   E-Music | Tienda de instrumentos musicales</a>
 
 <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
 <a href="https://github.com/Rxvargas92/Project_E-Music.git" ><img align="center" src="" height="20" width="30" /> </a>
 
-<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   E-Music </a>
+<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Buen Sabor | Administracion de un restaurante</a>
 
 <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
-<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/buen_sabor.png" height="40" width="60" /> </a>
+<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/buen_sabor.png" height="400" width="500" /> </a>
 
 
 
