@@ -54,15 +54,7 @@
 <h3> > My proyects </h3>
 <p align="left">
 
-<!-- <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Store! - E-commerce </a>
-
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="./img/icons/catalogue.png" width="500" /></a>
-
-<a href="https://github.com/pedro030/PokemonApp" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />PokemonApp</a>
-
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://github.com/pedro030/PokemonApp" ><img align="center" src="./img/icons/HomePokemon.png" width="500" /></a> -->
+<a href="https://github.com/Rxvargas92/Project_E-Music.git" ><img align="center" src="" height="20" width="30" /> E-Music </a>
 
 <!-- <a href="https://" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather-App </a>
 
