@@ -62,7 +62,7 @@
 <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   E-Music </a>
 
 <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
-<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/buen_sabor.png" height="20" width="30" /> </a>
+<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/buen_sabor.png" /> </a>
 
 
 
