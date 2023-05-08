@@ -3,9 +3,9 @@
 
 <h3> > Contáctame: </h3>
 <p align="left">
-  <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./assents/icons/linkedin.png" alt="Linkedin" height="45"/></a></code>
-  <code><a href="https://drive.google.com/file/d/1i79WHDwY6hwSr_oIcs_y-flMFFTMtZ7H/view?usp=sharing" target="_blank"> <img src="./assents/icons/cv.png" alt="CV" height="45"/></a></code>
-  <code><a href="mailto:alejoaraya2000@gmail.com" target="_blank"> <img src="./assents/icons/gmail.png" alt="Email" height="45"/></a></code>
+  <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./assents/icons/contact/linkedin.png" alt="Linkedin" height="45"/></a></code>
+  <code><a href="https://drive.google.com/file/d/1i79WHDwY6hwSr_oIcs_y-flMFFTMtZ7H/view?usp=sharing" target="_blank"> <img src="./assents/icons/contact/cv.png" alt="CV" height="45"/></a></code>
+  <code><a href="mailto:alejoaraya2000@gmail.com" target="_blank"> <img src="./assents/icons/contact/gmail.png" alt="Email" height="45"/></a></code>
   
 </p>
 
@@ -13,6 +13,7 @@
 
 <p align="left">
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./img/skills/javascript.png" alt="javascript" height="30"/></a> JavaScript</code>
+  <code><a href="https://www.flaticon.com/free-icons/typescript" target="_blank" title="typescript icons" height="30"></a>TypeScript</code>
   <code><a href="https://www.w3.org/html/" target="_blank"> <img src="./img/skills/html5.png" alt="html5" height="30"/></a> HTML</code>
   <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="./img/skills/css.png" alt="html5" height="30"/></a> CSS</code>
   <code><a href="https://reactjs.org/" target="_blank"> <img src="./img/skills/react.png" alt="react" height="30"/></a> React</code>
