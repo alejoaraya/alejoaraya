@@ -51,7 +51,7 @@
 
 </p>
 
-<h3> > My proyects </h3>
+<h2> My proyects </h2>
 <p align="left">
 
 <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   E-Music | Tienda de instrumentos musicales</a>
