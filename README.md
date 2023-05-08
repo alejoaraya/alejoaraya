@@ -1,4 +1,4 @@
-<h1 align="center" width=75%>Hola! yo soy Alejo Araya <img src="./assents/icons/programmer.png" width="30" /> </h1>
+<h1 align="center" width=75%>Hola! yo soy Alejo Araya <img src="./assents/icons/programmer.png" width="60" /> </h1>
 <h3 align="center">Soy un full stack developer curioso con gran capacidad de resolución de problemas, siempre dispuesto a enseñar y aprender de los demás.</h3>
 
 <h3> > Contáctame: </h3>
