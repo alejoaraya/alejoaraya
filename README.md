@@ -1,11 +1,11 @@
 <h1 align="center" width=75%>Hola! yo soy Alejo Araya <img src="./assents/icons/programmer.png" width="60" /> </h1>
-<h3 align="center">Soy un full stack developer curioso con gran capacidad de resolución de problemas, siempre dispuesto a enseñar y aprender de los demás.</h3>
+<h3 align="center">Soy un Back-End Developer proactivo, responsable, persistente, gran capacidad de trabajo en equipo y con gran capacidad de resolución de problemas, siempre dispuesto a enseñar y aprender de los demás.</h3>
 
 <h3> > Contáctame: </h3>
 <p align="left">
-  <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./img/icons/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/file/d/1i79WHDwY6hwSr_oIcs_y-flMFFTMtZ7H/view?usp=sharing" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
-  <code><a href="mailto:alejoaraya2000@gmail.com" target="_blank"> <img src="./img/icons/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
+  <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./assents/icons/linkedin" alt="Linkedin" height="30"/></a></code>
+  <code><a href="https://drive.google.com/file/d/1i79WHDwY6hwSr_oIcs_y-flMFFTMtZ7H/view?usp=sharing" target="_blank"> <img src="./assents/icons/cv.png" alt="CV" height="30"/></a></code>
+  <code><a href="mailto:alejoaraya2000@gmail.com" target="_blank"> <img src="./assents/icons/gmail.png" alt="Email" height="30"/></a></code>
   
 </p>
 
