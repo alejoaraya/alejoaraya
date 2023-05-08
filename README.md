@@ -62,7 +62,7 @@
 <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Buen Sabor | Administracion de un restaurante</a>
 
 <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
-<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/buen_sabor.png" height="400" width="500" /> </a>
+<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/buen_sabor.png" height="300" width="500" /> </a>
 
 
 
