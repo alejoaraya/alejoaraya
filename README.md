@@ -9,7 +9,7 @@
   
 </p>
 
-<h3> > Skills </h3>
+<h2> SKILLS </h2>
 
 <p align="left">
 
