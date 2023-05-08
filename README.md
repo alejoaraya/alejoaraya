@@ -12,7 +12,16 @@
 <h3> > Skills </h3>
 
 <p align="left">
-<h4> > Front-End </h4>
+
+  
+<h4> > Main Back-End </h4>
+  <code><a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="./assents/icons/skills/back/java.png" alt="Java" height="45"/></a> Java</code>
+  <code><a href="https://hibernate.org/orm/documentation/6.2/" target="_blank"> <img src="./assents/icons/skills/back/hibernate.svg" alt="Hibernate" height="30"/></a> Hibernate</code>
+  <code><a href="https://maven.apache.org/guides/" target="_blank"> <img src="./assents/icons/skills/back/maven.svg" alt="Maven" height="30"/></a> Maven</code>
+  <code><a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"> <img src="./assents/icons/skills/back/boot_spring.svg" alt="Spring Boot" height="30"/></a> Spring Boot </code>
+  <code><a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"> <img src="./assents/icons/skills/back/junit.svg" alt="JUnit5" height="30"/></a> JUnit5 </code>
+
+  <h4> > Front-End </h4>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assents/icons/skills/front/js.png" alt="javascript" height="30"/></a> JavaScript</code>
   <code><a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="./assents/icons/skills/front/typescript.png" alt="typescript" height="30"/></a> TypeScript</code>
   <code><a href="https://www.w3.org/html/" target="_blank"> <img src="./assents/icons/skills/front/html-5.png" alt="html5" height="30"/></a> HTML</code>
@@ -20,14 +29,6 @@
   <code><a href="https://sass-lang.com/documentation/" target="_blank"> <img src="./assents/icons/skills/front/sass.png" alt="sass" height="30"/></a> SASS</code>
   <code><a href="https://tailwindcss.com/docs/installation" target="_blank"> <img src="./assents/icons/skills/front/tailwind.png" alt="tailwind" height="30"/></a> Tailwind</code>
   <code><a href="https://reactjs.org/" target="_blank"> <img src="./assents/icons/skills/front/react.png" alt="react" height="30"/></a> React</code>
-  
-<h4> > Main Back-End </h4>
-  
-  <code><a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="./assents/icons/skills/back/java.png" alt="Java" height="45"/></a> Java</code>
-  <code><a href="https://hibernate.org/orm/documentation/6.2/" target="_blank"> <img src="./assents/icons/skills/back/hibernate.svg" alt="Hibernate" height="30"/></a> Hibernate</code>
-  <code><a href="https://maven.apache.org/guides/" target="_blank"> <img src="./assents/icons/skills/back/maven.svg" alt="Maven" height="30"/></a> Maven</code>
-  <code><a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"> <img src="./assents/icons/skills/back/boot_spring.svg" alt="Spring Boot" height="30"/></a> Spring Boot </code>
-  <code><a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"> <img src="./assents/icons/skills/back/junit.svg" alt="JUnit5" height="30"/></a> JUnit5 </code>
 
 <h4> > Extra Back-End </h4>
   <code><a href="https://nodejs.org" target="_blank"> <img src="./assents/icons/skills/back/nodejs.png" alt="nodejs" height="30"/></a> Node.Js</code>
