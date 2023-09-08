@@ -1,4 +1,4 @@
-<h1 align="center" width=75%>Hi! I'm Alejo Araya/Back-End Developer <img src="./assents/icons/programmer.png" width="60" /> </h1>
+<h1 align="center" width=75%>Hi! I'm Alejo Araya/Front-End Developer <img src="./assents/icons/programmer.png" width="60" /> </h1>
 <h3 align="center">I am a proactive, responsible, persistent, with great teamwork skills and a strong problem-solving ability, always willing to teach and learn from others.</h3>
 
 <h3> > Contact me: </h3>
@@ -16,12 +16,12 @@
 <p align="left">
 
   
-<h4> - Main Back-End </h4>
+<!-- <h4> - Main Back-End </h4>
   <code><a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="./assents/icons/skills/back/java.png" alt="Java" height="45"/></a> Java</code>
   <code><a href="https://hibernate.org/orm/documentation/6.2/" target="_blank"> <img src="./assents/icons/skills/back/hibernate.svg" alt="Hibernate" height="30"/></a> Hibernate</code>
   <code><a href="https://maven.apache.org/guides/" target="_blank"> <img src="./assents/icons/skills/back/maven.svg" alt="Maven" height="30"/></a> Maven</code>
   <code><a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"> <img src="./assents/icons/skills/back/boot_spring.svg" alt="Spring Boot" height="30"/></a> Spring Boot </code>
-  <code><a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"> <img src="./assents/icons/skills/back/junit.svg" alt="JUnit5" height="30"/></a> JUnit5 </code>
+  <code><a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"> <img src="./assents/icons/skills/back/junit.svg" alt="JUnit5" height="30"/></a> JUnit5 </code> -->
 
   <h4> - Front-End </h4>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assents/icons/skills/front/js.png" alt="javascript" height="30"/></a> JavaScript</code>
@@ -32,11 +32,11 @@
   <code><a href="https://tailwindcss.com/docs/installation" target="_blank"> <img src="./assents/icons/skills/front/tailwind.png" alt="tailwind" height="30"/></a> Tailwind</code>
   <code><a href="https://reactjs.org/" target="_blank"> <img src="./assents/icons/skills/front/react.png" alt="react" height="30"/></a> React</code>
 
-<h4> - Extra Back-End </h4>
+<!-- <h4> - Extra Back-End </h4>
   <code><a href="https://nodejs.org" target="_blank"> <img src="./assents/icons/skills/back/nodejs.png" alt="nodejs" height="30"/></a> Node.Js</code>
   <code><a href="https://expressjs.com" target="_blank"> <img src="./assents/icons/skills/back/express.png" alt="express" height="30"/></a> Express.Js</code>
   <code><a href="https://docs.python.org/3/" target="_blank"> <img src="./assents/icons/skills/back/python.png" alt="Python" height="30"/></a> Python </code>
-  <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="./assents/icons/skills/back/c-sharp.png" alt="C Sharp" height="30"/></a> C Sharp </code>
+  <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="./assents/icons/skills/back/c-sharp.png" alt="C Sharp" height="30"/></a> C Sharp </code> -->
 
 <h4> - DataBase </h4>
   <code><a href="https://dev.mysql.com/doc/" target="_blank"> <img src="./assents/icons/skills/db/mysql.png" alt="mysql" width="30" height="30"/></a> MySql</code>
@@ -68,20 +68,20 @@
 <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
 <a href="https://github.com/Rxvargas92/Project_E-Music.git" ><img align="center" src="" height="20" width="30" /> </a>
 
-<a href="https://github.com/Araya-Alejo/GrupoL-TM" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Alquila Ya | Administracion de tienda de alquiler de vehiculos</a>
+<!-- <a href="https://github.com/Araya-Alejo/GrupoL-TM" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Alquila Ya | Administracion de tienda de alquiler de vehiculos</a>
 
 <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
-<a href="https://github.com/Araya-Alejo/GrupoL-TM" ><img align="center" src="" height="20" width="30" /> </a>
+<a href="https://github.com/Araya-Alejo/GrupoL-TM" ><img align="center" src="" height="20" width="30" /> </a> -->
 
 <a href="https://github.com/Araya-Alejo/Laboratorio_global" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Calculadora | Calculadora avanzada</a>
 
 <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
 <a href="https://github.com/Araya-Alejo/Laboratorio_global" ><img align="center" src="" height="20" width="30" /> </a>
 
-<a href="https://github.com/Araya-Alejo/Contabilidad_Blockchain" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Contabilidad | Administracion de asientos contables</a>
+<!-- <a href="https://github.com/Araya-Alejo/Contabilidad_Blockchain" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Contabilidad | Administracion de asientos contables</a> -->
 
-<a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
-<a href="https://github.com/Araya-Alejo/Contabilidad_Blockchain" ><img align="center" src="" height="20" width="30" /> </a>
+<!-- <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
+<a href="https://github.com/Araya-Alejo/Contabilidad_Blockchain" ><img align="center" src="" height="20" width="30" /> </a> -->
 
 
 
