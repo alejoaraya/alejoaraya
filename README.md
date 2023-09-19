@@ -3,7 +3,7 @@
 
 <h3> > Contact me: </h3>
 <p align="left">
-  <code><a href="https://www.linkedin.com/in/alejo-araya-41b96a190/" target="_blank"> <img src="./assents/icons/contact/linkedin.png" alt="Linkedin" height="45"/></a></code>
+  <code><a href="https://www.linkedin.com/in/alejoaraya/" target="_blank"> <img src="./assents/icons/contact/linkedin.png" alt="Linkedin" height="45"/></a></code>
   <code><a href="https://drive.google.com/file/d/1DXDJmZe4kLkdcRdtREzGcGCpWXsjFI-p/view?usp=sharing" target="_blank"> <img src="./assents/icons/contact/cv.png" alt="CV" height="45"/></a></code>
   <code><a href="mailto:alejoaraya2000@gmail.com" target="_blank"> <img src="./assents/icons/contact/gmail.png" alt="Email" height="45"/></a></code>
   
